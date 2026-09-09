@@ -1,0 +1,48 @@
+7/9/2026
+
+To develop a project we have five steps
+1. planning
+2. communication
+3. prototyping
+4. development and testing
+5. deployment
+
+
+IRCTC WEBSITE 
+PERFORMANCE ACCESSIBILITY  BESTPRACTICS  SEO
+30           70                65        73
+
+APPLE WEBSITE
+PERFORMANE ACCESSIBILITY BESTPRACTICS SEO
+31          97           11           92
+   
+
+>>>REASON IS WHY PERFORMANE ACCESSIBILITY IS LOW
+
+when there are lot of images to be loaded it reduces the performance background animations that are running from24/7 will reduce the performance when there are multiple web pages inside a single website it reduces accessibility during deployment based on keywords determine the seo of the website.
+
+
+
+8/9/2026
+UI-USER INTERFACE is the design of the  front end that the user uses to interact with the software or the product that is developed based on a certain functionality for a given problem statement .
+
+Principles of UI-
+1. Typography -it specifies the font style, font size and alignment of a text that is given in a component.
+
+2.COLOUR PALLETTE: IT IS WHERE WE CHOOSE A COMBINATION OF THREE MAIN COLOURS WHICH FOLLOWS THE 60:30:10 RULE, IN WHICH 60% IS THE BASE COLOUR AND ALSO KNOWN AS PRIMARY
+COLOUR GRADING WHERE AS THE 30% OF THE NEXT COLOUR IS THE SECONDARY COLOUR GRADING ,10% AS THE COLOUR FOR ACTIONS TAKEN PLACE.
+
+3.BUTTONS:THIS ARE THE FUNCTIONS THAT WE USE TO PERFORM A SPECIFIC ACTION OR A EVENT IN HTML OR JAVA SCRIPTS THIS CAN BE ACHIEVED BY USING A FUNCTIONALITY CALLED EVENT 
+LISTENER THAT PERFORMS A GIVEN SPECIFIC TASK WITH A SPECIFIED TRIGGERS.
+EXAMPLE FOR TRIGGERS:1.TAP
+                     2.SCROLL
+                     3.HOVER
+                      4.KEY PRESS
+                      5.DOUBLE TAP
+
+
+4.CONTENT: IT IS THE DATA PRESENT IN A FRAME OR A COMPONENT WHICH IS ALPHA NUMERIC AND IS USED AS A DESCRIPTION FOR THE FRAME OR THE CONTENT.
+5.IMAGES:IMAGES ARE A WAY TO DESCRIBE THE CONTENT INSIDE A GIVEN SPECIFIC COMPONENT THAT EXPLAINS THE ELEMENT IN A BETTER WAY .
+6.FORMS:A SET OF QUESTIONS THAT CHANGES WITH RESPECT TO THE PRODUCT THAT IS BEING BUILT OR WITH RESPECT TO THE FUNCTIONALITY.
+
+UX STANDS FOR USER EXPERIENCE WHERE THE DEVELOPER EMPHATIZES THE USER REQUIREMENTS AND DESIGNS IN A SPECIFIC FUNCTIONALITY OF THE WEB PAGE IS TO PERFORM AND ACHIEVE THE END GOAL
